@@ -1,3 +1,6 @@
+<div align="center" width="500">
+<img src="https://im.ezgif.com/tmp/ezgif-1-46c0d98411.gif" width="600">
+</div>
 <h1 align="center">Hi 👋, I'm Aisyah Hersa Dwi Putri</h1>
 <h3 align="center">I'm Undergraduate Student of Geophysics Gadjah Mada University</h3>
 
